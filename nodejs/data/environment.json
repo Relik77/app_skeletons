@@ -1,0 +1,11 @@
+{
+    "CURRENT_ENV": {
+        "type": "string",
+        "description": "The current running environment",
+        "defaultValue": "prod"
+    },
+    "API_SERVER_URL": {
+        "type": "string",
+        "description": "The base URL of the API server"
+    }
+}
