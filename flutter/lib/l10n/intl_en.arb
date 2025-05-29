@@ -1,0 +1,99 @@
+{
+  "@@locale": "en",
+  "app_title": "My Flutter Project",
+  "@app_title": {
+    "description": "Application title"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Text displayed while loading data"
+  },
+  "notFoundScreen_title": "Page not found",
+  "@notFoundScreen_title": {
+    "description": "Title of the not found page"
+  },
+  "loginScreen_emailLabel": "Email",
+  "@loginScreen_emailLabel": {
+    "description": "Label for the email field"
+  },
+  "loginScreen_passwordLabel": "Password",
+  "@loginScreen_passwordLabel": {
+    "description": "Label for the password field"
+  },
+  "loginScreen_loginButton": "Login",
+  "@loginScreen_loginButton": {
+    "description": "Label for the login button"
+  },
+  "loginScreen_rememberMeLabel": "Remember me",
+  "@loginScreen_rememberMeLabel": {
+    "description": "Label for the remember me checkbox"
+  },
+  "loginScreen_forgotPasswordButton": "Forgot password?",
+  "@loginScreen_forgotPasswordButton": {
+    "description": "Label for the forgot password button"
+  },
+  "loginScreen_registerButton": "Register",
+  "@loginScreen_registerButton": {
+    "description": "Label for the register button"
+  },
+  "account_title": "Account",
+  "@account_title": {
+    "description": "Title of the account page"
+  },
+  "myDashboard_title": "My Dashboard",
+  "@myDashboard_title": {
+    "description": "Title of the my dashboard page"
+  },
+  "passwordStrength_0": "Weak",
+  "@passwordStrength_0": {
+    "description": "Text for a weak password"
+  },
+  "passwordStrength_1": "Weak",
+  "@passwordStrength_1": {
+    "description": "Text for a weak password"
+  },
+  "passwordStrength_2": "Acceptable",
+  "@passwordStrength_2": {
+    "description": "Text for an acceptable password"
+  },
+  "passwordStrength_3": "Strong",
+  "@passwordStrength_3": {
+    "description": "Text for a strong password"
+  },
+  "passwordStrength_4": "Strong",
+  "@passwordStrength_4": {
+    "description": "Text for a strong password"
+  },
+  "error_required_field": "This field is required",
+  "@error_required_field": {
+    "description": "Error message for a required field"
+  },
+  "error_account_not_found": "Email or password incorrect",
+  "@error_account_not_found": {
+    "description": "Error message for an account not found"
+  },
+  "error_wrong_password": "Wrong password",
+  "@error_wrong_password": {
+    "description": "Error message for a wrong password"
+  },
+  "error_password_match": "Passwords don't match",
+  "@error_password_match": {
+    "description": "Error message for a password mismatch"
+  },
+  "error_password_strength": "Please choose a stronger password",
+  "@error_password_strength": {
+    "description": "Error message for a password strength"
+  },
+  "error_email_already_exists": "Email already exists",
+  "@error_email_already_exists": {
+    "description": "Error message for an email already exists"
+  },
+  "error_email_format": "Invalid email format",
+  "@error_email_format": {
+    "description": "Error message for an invalid email format"
+  },
+  "error_unknown": "An error occurred",
+  "@error_unknown": {
+    "description": "Error message for an unknown error"
+  }
+}

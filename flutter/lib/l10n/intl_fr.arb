@@ -1,0 +1,99 @@
+{
+  "@@locale": "fr",
+  "app_title": "Mon Projet Flutter",
+  "@app_title": {
+    "description": "Titre de l'application"
+  },
+  "loading": "Chargement...",
+  "@loading": {
+    "description": "Texte affiché lors du chargement de données"
+  },
+  "notFoundScreen_title": "Page introuvable",
+  "@notFoundScreen_title": {
+    "description": "Titre de la page introuvable"
+  },
+  "loginScreen_emailLabel": "Email",
+  "@loginScreen_emailLabel": {
+    "description": "Libellé pour l'email"
+  },
+  "loginScreen_passwordLabel": "Mot de passe",
+  "@loginScreen_passwordLabel": {
+    "description": "Libellé pour le mot de passe"
+  },
+  "loginScreen_loginButton": "Se connecter",
+  "@loginScreen_loginButton": {
+    "description": "Texte du bouton pour se connecter"
+  },
+  "loginScreen_rememberMeLabel": "Se souvenir de moi",
+  "@loginScreen_rememberMeLabel": {
+    "description": "Libellé pour se souvenir de l'utilisateur"
+  },
+  "loginScreen_forgotPasswordButton": "Mot de passe oublié ?",
+  "@loginScreen_forgotPasswordButton": {
+    "description": "Texte du bouton pour mot de passe oublié"
+  },
+  "loginScreen_registerButton": "Créer un compte",
+  "@loginScreen_registerButton": {
+    "description": "Texte du bouton pour créer un compte"
+  },
+  "account_title": "Mon compte",
+  "@account_title": {
+    "description": "Titre de la page de compte"
+  },
+  "myDashboard_title": "Mon tableau de bord",
+  "@myDashboard_title": {
+    "description": "Titre de la page du tableau de bord"
+  },
+  "passwordStrength_0": "Faible",
+  "@passwordStrength_0": {
+    "description": "Texte pour un mot de passe faible"
+  },
+  "passwordStrength_1": "Faible",
+  "@passwordStrength_1": {
+    "description": "Texte pour un mot de passe faible"
+  },
+  "passwordStrength_2": "Acceptable",
+  "@passwordStrength_2": {
+    "description": "Texte pour un mot de passe acceptable"
+  },
+  "passwordStrength_3": "Fort",
+  "@passwordStrength_3": {
+    "description": "Texte pour un mot de passe fort"
+  },
+  "passwordStrength_4": "Fort",
+  "@passwordStrength_4": {
+    "description": "Texte pour un mot de passe fort"
+  },
+  "error_required_field": "Ce champ est obligatoire",
+  "@error_required_field": {
+    "description": "Message d'erreur pour un champ obligatoire"
+  },
+  "error_account_not_found": "Email ou mot de passe incorrect",
+  "@error_account_not_found": {
+    "description": "Message d'erreur pour un compte introuvable"
+  },
+  "error_wrong_password": "Mot de passe incorrect",
+  "@error_wrong_password": {
+    "description": "Message d'erreur pour un mot de passe incorrect"
+  },
+  "error_password_match": "Les mots de passe ne correspondent pas",
+  "@error_password_match": {
+    "description": "Message d'erreur pour des mots de passe non identiques"
+  },
+  "error_password_strength": "Veillez à choisir un mot de passe plus fort",
+  "@error_password_strength": {
+    "description": "Message d'erreur pour un mot de passe trop faible"
+  },
+  "error_email_already_exists": "Cet email est déjà utilisé",
+  "@error_email_already_exists": {
+    "description": "Message d'erreur pour un email déjà existant"
+  },
+  "error_email_format": "Format d’email invalide",
+  "@error_email_format": {
+    "description": "Message d'erreur pour un email invalide"
+  },
+  "error_unknown": "Une erreur est survenue",
+  "@error_unknown": {
+    "description": "Message d'erreur pour une erreur inconnue"
+  }
+}
